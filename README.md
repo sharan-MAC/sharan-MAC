@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sharan R H 👋
 
-<!--
-**sharan-MAC/sharan-MAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Computer Science (Data Science) student at Vidyashilp University. I am passionate about **AI/ML**, **Data Engineering**, and **IoT innovation**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** Python, SQL, C, R
+* **Data Science:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+* **AI/NLP:** NLP, Semantic Similarity, Generative AI
+* **Hardware:** Arduino, Sensor Integration, Embedded Systems
+* **Tools:** Git/GitHub, MySQL, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+#### AI, Data Science & Software
+* [cite_start][Ai-resume-Ranker](https://github.com/sharan-MAC/Ai-resume-Ranker) - AI-powered resume screening using NLP and semantic similarity[cite: 16, 27].
+* [cite_start][Recruit.AI](https://github.com/sharan-MAC/Recruit.AI---Intelligent-Recruitment-Dashboard) - Intelligent Recruitment Dashboard[cite: 30].
+* [cite_start][Study-gene](https://github.com/sharan-MAC/Study-gene) - Intelligent Learning Assistant for active recall[cite: 31, 32].
+* [cite_start][Levelup-ai](https://github.com/sharan-MAC/Levelup-ai) - AI-based productivity and habit tracker[cite: 49, 50].
+* [cite_start][GDP-Analysis](https://github.com/sharan-MAC/GDP-Analysis) - Exploratory Data Analysis on global health and economic datasets[cite: 46, 47].
+* [cite_start][Nagara-SEVA](https://github.com/sharan-MAC/Nagara-SEVA) - Rural employment transparency platform[cite: 43, 44].
+* [argus-weilchain-agent](https://github.com/sharan-MAC/argus-weilchain-agent) - Blockchain/Agent implementation.
+* [Type-Space](https://github.com/sharan-MAC/Type-Space) - Productivity/Text interface tool.
+* [Ascend](https://github.com/sharan-MAC/Ascend) - Project development.
+* [Bhumerra](https://github.com/sharan-MAC/Bhumerra) - Data/AI project.
+* [SOUL.OS](https://github.com/sharan-MAC/SOUL.OS) - System-level project.
+
+#### IoT & Hardware Innovation
+* [cite_start][Matter-F roce](https://github.com/sharan-MAC/Matter-F roce) - AI Hardware Innovation Platform for empathetic engineering[cite: 34, 36].
+* [cite_start][SmartCity-Emergency-MILP-Optimization](https://github.com/sharan-MAC/SmartCity-Emergency-MILP-Optimization) - Smart city infrastructure optimization[cite: 39].
+* [cite_start][Personal-Ai-GADGET](https://github.com/sharan-MAC/Personal-Ai-GADGET) - AI hardware integration[cite: 35].
+* [Personal-Ai](https://github.com/sharan-MAC/Personal-Ai) - AI integration system.
+* [cite_start][ai-pollution-monitoring](https://github.com/sharan-MAC/ai-pollution-monitoring) - AI-driven environmental monitoring[cite: 39].
+* [cite_start][igadgets](https://github.com/sharan-MAC/igadgets) - IoT gadget integration[cite: 35].
+* [cite_start][ai-gag-dget](https://github.com/sharan-MAC/ai-gag-dget) - AI and hardware-assisted tools[cite: 36].
+
+#### Misc
+* [Brithday-Wishing-Web](https://github.com/sharan-MAC/Brithday-Wishing-Web) - Web-based automation.
+
+---
+📫 **Reach out to me:**
+- LinkedIn: [linkedin.com/in/sharan-r-h-6b504a340](https://www.linkedin.com/in/sharan-r-h-6b504a340)
+- Email: sharanrh297@gmail.com
