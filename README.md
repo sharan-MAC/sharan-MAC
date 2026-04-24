@@ -36,7 +36,7 @@ I am a B.Tech Computer Science (Data Science) student at Vidyashilp University. 
 * [Brithday-Wishing-Web](https://github.com/sharan-MAC/Brithday-Wishing-Web) - Web-based automation.
 
 ### Vidyashilp University
-University App( https://github.com/sharan-MAC/Vidyashilp-University-app )
+University App( https://github.com/sharan-MAC/Vidyashilp-University-app ) #vidyashilp.edu.in
 
 ---
 📫 **Reach out to me:**
