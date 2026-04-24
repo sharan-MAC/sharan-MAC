@@ -1,4 +1,4 @@
-# Hi, I'm Sharan R H 👋
+# Hi, I'm Sharan R H 
 
 I am a B.Tech Computer Science (Data Science) student at Vidyashilp University. I am passionate about **AI/ML**, **Data Engineering**, and **IoT innovation**.
 
