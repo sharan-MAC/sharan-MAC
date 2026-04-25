@@ -22,6 +22,7 @@ I am a B.Tech Computer Science (Data Science) student at Vidyashilp University. 
 * [Ascend](https://github.com/sharan-MAC/Ascend) - Project development.
 * [Bhumerra](https://github.com/sharan-MAC/Bhumerra) - Data/AI project.
 * [SOUL.OS](https://github.com/sharan-MAC/SOUL.OS) - System-level project.
+* [FITNESS-MANAGMENT](https://github.com/sharan-MAC/Fitness-App-Management)
 
 #### IoT & Hardware Innovation
 * [Matter-F roce](https://github.com/sharan-MAC/Matter-F roce) - AI Hardware Innovation Platform for empathetic engineering.
